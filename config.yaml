@@ -1,0 +1,34 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    take:
+      email: kengo@hiryu.co.jp
+      first_name: kengo
+      last_name: takeuchi
+      logged_in: false
+      password: $2b$12$QOPgHO3Egtb0gzaBh09ggOJ/V9Wywjr8TMa1baLsxj48nDlTwCElu
+      password_hint: '?'
+      roles: null
+    tk:
+      email: uu045081@gmail.com
+      first_name: taketake
+      last_name: kenken
+      logged_in: false
+      password: $2b$12$edDjm27wg5mc9wUo8uRHWuSNBAn3ZVlyAxzg18BjLJmeIs27ZvDlS
+      password_hint: ??
+      roles: null
+oauth2:
+  google:
+    client_id: null
+    client_secret: null
+    redirect_uri: null
+  microsoft:
+    client_id: null
+    client_secret: null
+    redirect_uri: null
+    tenant_id: null
+pre-authorized:
+  emails: []
