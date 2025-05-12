@@ -31,4 +31,4 @@ oauth2:
     redirect_uri: null
     tenant_id: null
 pre-authorized:
-  emails: []
+  emails: [serio-corp-jbplt@hiryu.co.jp]
